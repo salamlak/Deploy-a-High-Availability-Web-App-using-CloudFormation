@@ -49,6 +49,15 @@ This screenshot represents WebAppLBDNSName
 
 
 
+Finally this screenshot is for our high availability wep app application
+
+
+
+
+
+![it works](https://user-images.githubusercontent.com/70778406/183224784-c431861d-7d59-42bb-a769-34f591d502aa.png)
+
+
 
 
 
